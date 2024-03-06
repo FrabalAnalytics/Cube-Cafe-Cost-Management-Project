@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Solution Steps](#solution-steps)
-- [Skills Demostrated](#skills-demostrated)
+- [Skills Demonstrated](#skills-demonstrated)
 - [Modelling](#modelling)
 - [SQL codes for product table](#sql-codes-for-product-table)
 - [Visualization](#visualization)
@@ -24,22 +24,22 @@ Utilizing a relational database, the system streamlines operations, optimizes in
 
 **Cube Cafe** faces critical challenges in cost management and inventory control. Difficulties exist in:
 1. Determining accurate costs for menu items: This hinders the ability to set optimal prices that reflect true product value and ensure profitability.
-2. Gaining clear insights into ingredient consumption based on sales data: This lack of transparency makes it difficult to effectively manage inventory, leading to potential issues of wastages, theft, overstocking, and understocking.
+2. Gaining clear insights into ingredient consumption based on sales data: This lack of transparency makes it difficult to effectively manage inventory, leading to potential issues of wastage, theft, overstocking, and understocking.
 
 
 
 ### Solution Steps
 
-Gathered data on menu, recipes, ingredients, sales, and inventory using Excel.
-Created a new database using MySQL benchmarks named "**cube_cafe**"
-Create tables for menu, recipes, ingredients, sales, and inventory.
-Generated queries and views for menu costing and ingredient consumption rate.
-Connected database to Power BI
-Build a dashboard to visualize key metrics and insights for effective decision making.
+- Gathered data on menu, recipes, ingredients, sales, and inventory using Excel.
+- Created a new database using MySQL benchmarks named "**cube_cafe**"
+- Create tables for menus, recipes, ingredients, sales, and inventory.
+- Generated queries and views for menu costing and ingredient consumption rate.
+- Connected database to Power BI
+- Built a dashboard to visualize key metrics and insights for effective decision-making.
 
 
 
-## Skills Demostrated
+## Skills Demonstrated
 ### MySQL 
 - Creating Database, Tables, and Views
 - Writing customs queries
