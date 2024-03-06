@@ -1,0 +1,26 @@
+inv_id,ing_name,inv_inflow,inv_stock
+1,Ingredient 1,10,22
+2,Ingredient 2,8,12
+3,Ingredient 3,9,36
+4,Ingredient 4,10,12
+5,Ingredient 5,1,4
+6,Ingredient 6,2,11
+7,Ingredient 7,0,24
+8,Ingredient 8,1,2
+9,Ingredient 9,0,4
+10,Ingredient 10,3,35
+11,Ingredient 11,12,24
+12,Ingredient 12,4,12
+13,Ingredient 13,11,33
+14,Ingredient 14,3,3
+15,Ingredient 15,13,22
+16,Ingredient 16,0,13
+17,Ingredient 17,8,33
+18,Ingredient 18,8,9
+19,Ingredient 19,2,7
+20,Ingredient 20,1,5
+21,Ingredient 21,1,4
+22,Ingredient 22,11,23
+23,Ingredient 23,6,12
+24,Ingredient 24,20,80
+25,Ingredient 25,7,12

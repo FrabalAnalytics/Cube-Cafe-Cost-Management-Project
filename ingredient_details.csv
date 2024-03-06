@@ -1,0 +1,26 @@
+ing_id,ing_name,category,ing_uom,per_unit_weight,ing_cost
+1,Ingredient 1,Dairies,ml,400,709
+2,Ingredient 2,Dairies,ml,1000,7500
+3,Ingredient 3,Dry Goods,Pcs,200,330
+4,Ingredient 4,Frozen,Gram,425,2000
+5,Ingredient 5,Frozen,Gram,85,1667
+6,Ingredient 6,Frozen,Gram,85,1000
+7,Ingredient 7,Frozen,Gram,4000,23750
+8,Ingredient 8,Dry Goods,Gram,500,3500
+9,Ingredient 9,Dry Goods,Gram,240,700
+10,Ingredient 10,Dry Goods,Gram,260,1500
+11,Ingredient 11,Dry Goods,Gram,400,1000
+12,Ingredient 12,Vegetable,Gram,100,1000
+13,Ingredient 13,Vegetable,Gram,30,1375
+14,Ingredient 14,Vegetable,Gram,100,1100
+15,Ingredient 15,Vegetable,Gram,1000,300
+16,Ingredient 16,Vegetable,Gram,1000,1500
+17,Ingredient 17,Vegetable,Gram,500,2625
+18,Ingredient 18,Dry Goods,Gram,100,1000
+19,Ingredient 19,Dry Goods,Gram,6,1041
+20,Ingredient 20,Dry Goods,Gram,625,3500
+21,Ingredient 21,Dry Goods,Gram,1000,10000
+22,Ingredient 22,Dry Goods,Gram,360,1000
+23,Ingredient 23,Dry Goods,Gram,28,1000
+24,Ingredient 24,Dry Goods,Pcs,1,95
+25,Ingredient 25,Dry Goods,Gram,92,1667
